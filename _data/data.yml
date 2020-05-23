@@ -14,12 +14,10 @@ sidebar:
     # Sidebar links
     email: mohammed.alrozzi@outlook.com
     phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    website: mohammedalrozzi.github.io #do not add http://
     linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    github: mohammedalrozzi
+    twitter: '@mohammedalrozzi'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -31,8 +29,11 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: French
+        level: Basic
+
+      - idiom: Italian
+        level: Basic
 
     interests:
       - item: Climbing
@@ -47,12 +48,18 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer m dolor sit amet, consectetm dolor sit amet, consectetm dolor sit amet, consectetm dolor sit amet, consectetm dolor sit amet, consectetm dolor sit amet, consectetm dolor sit amet, consectetm dolor sit amet, consectetm dolor sit amet, consectetm dolor sit amet, consectet
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+       Mohammed Alrozzi is a researcher in the field of Childhood Studies. 
+       He earned his PhD in Social Anthropology from the University of Fribourg, Switzerland and his master’s 
+       degree in Childhood Studies from the University of Edinburgh. He has authored book chapters and articles on
+        child-related topics including education and foreign aid, child labour, residential care, and child detention. 
+        Al-Rozzi has worked with many international non-governmental organisations and UN agencies, including Mercy 
+        Corps, Terre des Hommes, the Norwegian Refugee Council, World Vision and UNICEF. Through this experience, 
+        Al-Rozzi developed extensive multidisciplinary expertise in child protection and participation, education 
+        in post- conflict settings and psychosocial wellbeing in emergencies. He has worked with UNICEF on different 
+        assignments, the last being exploratory research on children’s involvement in armed groups in Lebanon, which 
+        led to the development of an agenda for future research on the topic. Given his academic background and work 
+        experience, Al-Rozzi’s expertise lies at the intersection of theory, policy and practice. You can [download this free resume/CV template here]().
+
 education:
     - degree: MSc in Computer Science
       university: University of London

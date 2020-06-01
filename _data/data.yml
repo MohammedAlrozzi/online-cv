@@ -64,7 +64,7 @@ education:
     - degree: PhD in Social Anthropology
       university: University of Fribourg
       time: 2013 - 2019
-      details: 
+      details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -72,9 +72,20 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: MSc in Childhood Studies
+      university: University of Edinburgh
+      time: 2010 - 2011
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - degree: BSc in Occupational Therapy
+      university: Bethlehelm University
+      time: 2003 - 2008
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -84,9 +95,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Associate
+      time: 2020 - Present
+      company: Proteknôn Consulting Group, LLC
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -99,9 +110,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Research Fellow (part-time)
+      time: 2020 - Present
+      company: University of Edinburgh, the UK
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -110,7 +121,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
+    - role: 
       time: 2012 - 2014
       company: Amazon, London
       details: |

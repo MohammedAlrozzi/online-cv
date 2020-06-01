@@ -106,39 +106,51 @@ experiences:
     - role: Visiting Lecturer
       time: 2015 - present
       company: University of Geneva, Switzerland
-
+      
     - role: International Coordinator
       time: June 2017- Present
       company: Gaza Children Cinema
-      details: |
-
+      
     - role: Child Protection Consultant
       time: December 2017- April 2018
       company: UNICEF, Lebanon
-
+      
     - role: Lecturer
       time: February - June 2017
       company: University of Fribourg, Switzerland
-
+      
     - role: Facilitator
       time: October 2016- September 2017
       company: University of Geneva, Switzerland
-
+      
     - role: Coordination Assistant
       time: June - August 2014 & June 2016
       company: University of Geneva, Switzerland
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+      
     - role: Research Assistant
       time: April 2015 - January 2016
       company: Centre for Humanitarian Psychology, Switzerland
-
+      
+    - role: Child Participation Coordinator
+      time: April 2012 - August 2013
+      company: World Vision, Palestine
+      
+    - role: Disability Consultant
+      time: November 2011 - April 2012
+      company: Norwegian Refugee Council (NRC)
+      
+    - role: Psychological and Mental Health Specialist
+      time: January - September 2010
+      company: Terre des Hommes (Lausanne), Palestine
+      
+    - role: Child Protection Consultant MAY— DEC 2009
+      time: May - December 2009
+      company: UNICEF, Palestine
+      
+    - role: Psychosocial Coordinator
+      time: July 2008 - May 2009
+      company: Mercy Corps, Palestine
+      
 projects:
     title: Projects
     intro: >
@@ -192,23 +204,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Windows and Macintosh
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Microsoft Office suite 
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: SPSS
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Nviva
+        level: 30%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: html and CSS
+        level: 35%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Python
+        level: 10%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
